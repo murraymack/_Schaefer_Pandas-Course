@@ -1,0 +1,7 @@
+,Column,DescriptionText
+0,authors,The author of online article.
+1,title,The title of online article.
+2,publish_date,The date the article was published.
+3,description,Brief description of article.
+4,text,The text of the article.
+5,url,URL to accesss article.
